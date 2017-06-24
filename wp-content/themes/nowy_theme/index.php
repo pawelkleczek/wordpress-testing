@@ -1,1 +1,10 @@
-<?php get_header(); ?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+	YEAH	
+	</body>
+</html>
